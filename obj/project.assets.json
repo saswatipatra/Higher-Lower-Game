@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Palindromes/palindrome.csproj",
-      "projectName": "palindrome",
-      "projectPath": "/Users/Guest/Desktop/Palindromes/palindrome.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/higherLower/higherlower.csproj",
+      "projectName": "higherlower",
+      "projectPath": "/Users/Guest/Desktop/higherLower/higherlower.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Palindromes/obj/",
+      "outputPath": "/Users/Guest/Desktop/higherLower/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
