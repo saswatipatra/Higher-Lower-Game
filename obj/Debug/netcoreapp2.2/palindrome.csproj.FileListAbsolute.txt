@@ -2,3 +2,10 @@
 /Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palindrome.csproj.CoreCompileInputs.cache
 /Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palindrome.AssemblyInfoInputs.cache
 /Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palindrome.AssemblyInfo.cs
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palindrome.deps.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palindrome.runtimeconfig.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palindrome.runtimeconfig.dev.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palindrome.dll
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palindrome.pdb
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palindrome.dll
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palindrome.pdb
