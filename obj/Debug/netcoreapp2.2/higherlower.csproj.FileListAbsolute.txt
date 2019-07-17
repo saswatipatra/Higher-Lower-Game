@@ -9,3 +9,14 @@
 /Users/Guest/Desktop/higherLower/bin/Debug/netcoreapp2.2/higherlower.pdb
 /Users/Guest/Desktop/higherLower/obj/Debug/netcoreapp2.2/higherlower.dll
 /Users/Guest/Desktop/higherLower/obj/Debug/netcoreapp2.2/higherlower.pdb
+C:\Users\p403s\Desktop\Higher-Lower-Game\bin\Debug\netcoreapp2.2\higherlower.deps.json
+C:\Users\p403s\Desktop\Higher-Lower-Game\bin\Debug\netcoreapp2.2\higherlower.runtimeconfig.json
+C:\Users\p403s\Desktop\Higher-Lower-Game\bin\Debug\netcoreapp2.2\higherlower.runtimeconfig.dev.json
+C:\Users\p403s\Desktop\Higher-Lower-Game\bin\Debug\netcoreapp2.2\higherlower.dll
+C:\Users\p403s\Desktop\Higher-Lower-Game\bin\Debug\netcoreapp2.2\higherlower.pdb
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.csprojAssemblyReference.cache
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.csproj.CoreCompileInputs.cache
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.AssemblyInfoInputs.cache
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.AssemblyInfo.cs
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.dll
+C:\Users\p403s\Desktop\Higher-Lower-Game\obj\Debug\netcoreapp2.2\higherlower.pdb
